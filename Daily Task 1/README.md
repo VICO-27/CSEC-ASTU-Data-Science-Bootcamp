@@ -1,4 +1,9 @@
 # 📊 Superstore Sales & Profitability Analysis
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-444876?style=for-the-badge&logo=seaborn&logoColor=white)
+![Scipy](https://img.shields.io/badge/Scipy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+
 ### End-to-End Exploratory Data Analysis (EDA) in Python
 
 ## 📖 Project Overview
@@ -15,9 +20,9 @@ Through **8 specialized tasks**, this project demonstrates proficiency in data c
 ---
 
 ## 🛠️ Tech Stack
-* **Language:** Python 3.x
+* **Language:** Python 3.12
 * **Libraries:** Pandas, NumPy, Matplotlib
-* **Environment:** Google Colab / Jupyter Notebook
+* **Environment:** Google Colab
 
 ---
 
@@ -68,7 +73,8 @@ Through **8 specialized tasks**, this project demonstrates proficiency in data c
 ---
 
 ## 🚀 How to Use
-1. **Clone the repo:** `git clone [https://github.com/VICO-27/Superstore-EDA.](https://github.com/VICO-27/CSEC-ASTU-Data-Science-Bootcamp.git`
+
+1. **Clone the repo:** `https://github.com/VICO-27/CSEC-ASTU-Data-Science-Bootcamp/tree/main/Daily%20Task%201`
 2. **Dataset:** Ensure `Sample - Superstore.csv` is in the root directory.
 3. **Execution:** Open the `.ipynb` file in Colab or Jupyter and run all cells to reproduce the findings.
 
